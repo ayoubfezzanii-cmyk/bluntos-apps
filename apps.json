@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "apps": [
+    {
+      "id": "snake",
+      "name": "SNAKE",
+      "icon": "S",
+      "version": "1.0.0",
+      "author": "ayoubfezzanii",
+      "description": "Classic snake game. Eat food, avoid walls and yourself. Use arrow keys to move.",
+      "size_kb": 4,
+      "entry": "snake.py",
+      "deps": []
+    },
+    {
+      "id": "pomodoro",
+      "name": "FOCUS",
+      "icon": "P",
+      "version": "1.0.0",
+      "author": "ayoubfezzanii",
+      "description": "25-minute focus timer with 5-minute breaks. Press Enter to start/pause.",
+      "size_kb": 4,
+      "entry": "pomodoro.py",
+      "deps": []
+    }
+  ]
+}
