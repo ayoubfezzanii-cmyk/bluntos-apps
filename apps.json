@@ -22,6 +22,72 @@
       "size_kb": 4,
       "entry": "pomodoro.py",
       "deps": []
+    },
+    {
+      "id": "2048",
+      "name": "2048",
+      "icon": "2K",
+      "version": "1.0.0",
+      "author": "ayoubfezzanii",
+      "description": "Slide tiles to combine matching numbers and reach 2048. Arrow keys.",
+      "size_kb": 5,
+      "entry": "2048.py",
+      "deps": []
+    },
+    {
+      "id": "tetris",
+      "name": "TETRIS",
+      "icon": "T",
+      "version": "1.0.0",
+      "author": "ayoubfezzanii",
+      "description": "Classic falling block puzzle. Up to rotate, Space to hard drop.",
+      "size_kb": 5,
+      "entry": "tetris.py",
+      "deps": []
+    },
+    {
+      "id": "asteroids",
+      "name": "ASTROIDS",
+      "icon": "A",
+      "version": "1.0.0",
+      "author": "ayoubfezzanii",
+      "description": "Vector-style space shooter. Rotate, thrust, shoot rocks. Multiple levels.",
+      "size_kb": 5,
+      "entry": "asteroids.py",
+      "deps": []
+    },
+    {
+      "id": "timer",
+      "name": "TIMER",
+      "icon": "TM",
+      "version": "1.0.0",
+      "author": "ayoubfezzanii",
+      "description": "Multiple parallel countdown timers. Picks: 1m, 5m, 10m, 25m, 1h. Saves between sessions.",
+      "size_kb": 5,
+      "entry": "timer.py",
+      "deps": []
+    },
+    {
+      "id": "crypto",
+      "name": "CRYPTO",
+      "icon": "BTC",
+      "version": "1.0.0",
+      "author": "ayoubfezzanii",
+      "description": "Live BTC, ETH, SOL, ADA, DOGE prices with 24h change and tiny price chart.",
+      "size_kb": 5,
+      "entry": "crypto.py",
+      "deps": ["requests"]
+    },
+    {
+      "id": "wiki",
+      "name": "WIKI",
+      "icon": "W",
+      "version": "1.0.0",
+      "author": "ayoubfezzanii",
+      "description": "Random Wikipedia article fetcher. Press N for next. Great for boredom and learning.",
+      "size_kb": 5,
+      "entry": "wiki.py",
+      "deps": ["requests"]
     }
   ]
 }
